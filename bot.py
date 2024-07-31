@@ -75,7 +75,7 @@ async def start(client, message):
     
     keyboard = InlineKeyboardMarkup([
         [InlineKeyboardButton("ᴀʙᴏᴜᴛ", url="https://t.me/about_shubhhh"),
-        InlineKeyboardButton("ᴍʏ ʟᴏᴠᴇ ❤️", url="tg://settings")],
+        InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/shubhhh_x3")],
         [InlineKeyboardButton("ᴍʏ ᴄᴏɴᴛᴀᴄᴛ", url="tg://need_update_for_some_feature")]
     ])
     
